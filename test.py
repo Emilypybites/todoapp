@@ -41,5 +41,7 @@ print()
 complete_todo(1)
 print_todos()
 
+print("")
+
 
 
